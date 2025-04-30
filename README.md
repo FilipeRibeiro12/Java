@@ -70,3 +70,11 @@ Aprendendo JAVA do inicio ao intermediario
   ![alt text](image-5.png)
   ![alt text](image-6.png)
 
+# Operadores
+* Operadores desempenham operações
+
+# Tipos de Operadores
+* Aritiméticos
+* Relacionais
+* Atribuição
+* Lógicos
