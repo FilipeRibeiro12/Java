@@ -18,9 +18,26 @@ public class OperadoresNotasEstudo {
     // System.out.println(multiplicacao);
 
     int numero7 = 7;
-    int numero70 = 70;
-    int divisao = numero70 / numero7;
-    System.out.println(divisao);
+    int numero71 = 71;
+    int divisao = numero71 / numero7;
+    // System.out.println(divisao);
+
+    int modulo = numero71 % numero7;
+    // System.out.println(modulo);
+
+    int contador = 0;
+    contador ++;
+    contador ++;
+    // System.out.println(contador);
+
+    double decimal1 = 1.0;
+    double decimal2 = 2.0;
+    boolean ehmaior = decimal2 > decimal1;
+    // System.out.println(ehmaior);
+
+    boolean ehMenor =  decimal1 < decimal2;
+    // System.out.println(ehMenor);
+    
   }
 }
 

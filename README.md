@@ -78,3 +78,6 @@ Aprendendo JAVA do inicio ao intermediario
 * Relacionais
 * Atribuição
 * Lógicos
+
+# Casting
+![alt text](image-7.png)
