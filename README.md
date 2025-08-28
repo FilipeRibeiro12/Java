@@ -81,3 +81,19 @@ Aprendendo JAVA do inicio ao intermediario
 
 # Casting
 ![alt text](image-7.png)
+
+# Especificadores de valor
+
+* Principais especificadores de formato 
+%d: Usado para formatar números inteiros decimais.
+%f: Usado para formatar números decimais de ponto flutuante (como float e double).
+%s: Usado para formatar valores do tipo String.
+%c: Usado para formatar caracteres (tipo char).
+%o: Usado para formatar números inteiros na base octal.
+%x, %X: Usados para formatar números inteiros na base hexadecimal (em minúsculas ou maiúsculas).
+
+# Boas Práticas (Clean Code)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
